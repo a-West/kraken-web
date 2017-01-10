@@ -1,0 +1,29 @@
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://rally28.com</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/shop/list</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/faq</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/resources</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/login</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/results</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/landinga.html</loc>
+    </url>
+    <url>
+        <loc>https://rally28.com/landingb.html</loc>
+    </url>
+</urlset>
